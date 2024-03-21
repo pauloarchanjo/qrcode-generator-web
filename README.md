@@ -1,4 +1,4 @@
 # QR-Code_Web
-Gerador de QR-Code feito com a Tríade Web (HTML, CSS e JavaScript).
+QR-Code generator made with the Web Triad (HTML, CSS and JavaScript).
 
 ![Screenshot](assets/img/git_img.png)
